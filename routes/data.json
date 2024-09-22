@@ -1,0 +1,24 @@
+[
+    {
+        "Name of the hospital":"Hospital 1",
+        "Patient Count":100,
+        "Hospital location":"location 1"
+    },
+    {
+        "Name of the hospital":"Hospital 2",
+        "Patient Count":200,
+        "Hospital location":"location 2"
+    },
+    {
+        "Name of the hospital":"Hospital 3",
+        "Patient Count":300,
+        "Hospital location":"location 3"
+    },
+    {
+        "Name of the hospital":"Hospital 4",
+        "Patient Count":400,
+        "Hospital location":"location 4"
+    }
+]
+
+
